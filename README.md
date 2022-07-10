@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Ash.
-#### I am a Software Developer.
+## Hi there 👋, I'm Ash.
+### I am a Software Developer.
 ![I am a Software Developer.](https://media-exp2.licdn.com/dms/image/C4E16AQGDzUGglB_6Sw/profile-displaybackgroundimage-shrink_200_800/0/1655147004457?e=1663200000&v=beta&t=MiAoKOuyOKa1fPZ3uKZ0FgJbPxDvwfvNL8icBnz5MXM)
 
 I'm Ash from Ireland. I am a Software Developer who specializes in creating mobile-responsive, accessible, web applications. I pride myself on delivering creative and engaging solutions to problems.
